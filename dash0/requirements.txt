@@ -17,6 +17,7 @@ opentelemetry-exporter-otlp-proto-grpc==1.36.0
 opentelemetry-exporter-otlp-proto-http==1.36.0
 opentelemetry-instrumentation==0.57b0
 opentelemetry-instrumentation-flask==0.57b0
+opentelemetry-instrumentation-logging==0.57b0
 opentelemetry-instrumentation-wsgi==0.57b0
 opentelemetry-proto==1.36.0
 opentelemetry-sdk==1.36.0
@@ -24,6 +25,7 @@ opentelemetry-semantic-conventions==0.57b0
 opentelemetry-util-http==0.57b0
 packaging==25.0
 protobuf==6.32.0
+python-json-logger==3.3.0
 requests==2.32.5
 typing_extensions==4.15.0
 urllib3==2.5.0
